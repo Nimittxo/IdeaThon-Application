@@ -5,4 +5,8 @@ A C# Application built with Microsoft framework and supported by Microsoft Datab
 # Basic Login Page of the following 
 <img src="https://github.com/Nimittxo/IdeaThon-Application/blob/main/Resources/Screenshot%202024-01-20%20140549.png" alt="App Screenshot" width="500" height="300"/>
 
+#Content of the Application
+
+
+
 
